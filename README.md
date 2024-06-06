@@ -20,7 +20,7 @@ Welcome to the **Smart Parking Lot Detection System**! This project uses cutting
 
 Here's an example of our system in action:
 
-![Example Video](output_video.mp4)
+![Example Video](Parking-lot-detection/output_video.mp4)
 
 
 
